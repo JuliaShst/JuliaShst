@@ -1,5 +1,5 @@
 ### Hi there 👋
-🌱 I’m currently learning Data Structures and Algorithms 🔭 
+🌱 I’m currently learning Data Science 🔭 
 
 <!--
 - 🔭 I’m currently working on ...
